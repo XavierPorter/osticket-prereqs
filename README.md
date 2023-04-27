@@ -22,7 +22,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 - [Installation Files](https://drive.google.com/drive/u/1/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 - HeidiSQL
-- IIS
+- IIS (Internet Information Services)
 - PHP Manager for IIS
 - Rewrite Module 
 - PHP 7.3.8
@@ -31,26 +31,48 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
+<h1>1. Setup a Virtual Machine in Azure</h1>
 <p>
-<img src="https://i.imgur.com/rqVH5Ql.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2SWur0M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  <ol>
+    <li>Create an Azure Virtual Machine Windows 10, 4 vCPUs</li>
+    <li>Name: Vm-osticket</li>
+    <li>Username: labuser (for example/whatever you chose)</li>
+    <li>Password: osTicketPassword1! (for example/whatever you chose)</li>
+</ol>
 </p>
 <br />
+
+<h1>2. Open: Installation Files</h1>
+
+<p>
+<img src="https://i.imgur.com/aKtK8rU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+We will use these files to install osTicket and some of the dependencies
+</p>
+<br />
+
+<h1>3. Install / Enable IIS in Windows WITH CGI</h1>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
+
+
+
+<h1>4. Install / Enable IIS in Windows WITH CGI</h1>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
