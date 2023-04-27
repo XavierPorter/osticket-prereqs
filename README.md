@@ -58,9 +58,19 @@ We will use these files to install osTicket and some of the dependencies
 <h1>3. Install / Enable IIS in Windows WITH CGI</h1>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/l3NRQpZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+  <ol>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+    <li></li>
+  </ol>
 World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
