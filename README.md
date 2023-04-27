@@ -51,7 +51,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/aKtK8rU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-We will use these files to install osTicket and some of the dependencies
+We will use these files to install osTicket and some of the dependencies. <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a></h1>
 </p>
 <br />
 
@@ -71,7 +71,6 @@ We will use these files to install osTicket and some of the dependencies
     <li>Application Development Features-></li>
     <li>Checke the "CGI" box</li>
   </ol>
-World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
 <br />
 
