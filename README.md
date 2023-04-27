@@ -62,14 +62,14 @@ We will use these files to install osTicket and some of the dependencies
 </p>
 <p>
   <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Right click windows start menu and click run.</li>
+    <li>Type in "control"</li>
+    <li>Click "Programs"</li>
+    <li>Click "Turn Windows features on/off"</li>
+    <li>Check the "Internet Information Services" box</li>
+    <li>World Wide Web Services-></li>
+    <li>Application Development Features-></li>
+    <li>Checke the "CGI" box</li>
   </ol>
 World Wide Web Services -> Application Development Features -> [X] CGI
 </p>
