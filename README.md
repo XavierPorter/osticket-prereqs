@@ -94,3 +94,20 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 </p>
 <p> From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download and install the Rewrite Module </p>
 <br />
+
+
+
+<h2>6. Create the directory C:\PHP </h2>
+
+<p>
+<img src="https://i.imgur.com/wCTZBbb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Click File Explorer</li>
+    <li>Type "C:" in the search bar.</li>  
+    <li>Right click in the empty area and click "New"</li>  
+    <li>Click "Folder" and name "PHP"</li>  
+  </ol>
+</p>
+<br />
