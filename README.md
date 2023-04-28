@@ -31,7 +31,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Installation Steps</h2>
 
-<h1>1. Setup a Virtual Machine in Azure</h1>
+<h2>1. Setup a Virtual Machine in Azure</h2>
 <p>
 <img src="https://i.imgur.com/2SWur0M.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -45,7 +45,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 </p>
 <br />
 
-<h1>2. Open: Installation Files</h1>
+<h2>2. Open: Installation Files</h2>
 
 <p>
 <img src="https://i.imgur.com/aKtK8rU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -55,7 +55,7 @@ We will use these files to install osTicket and some of the dependencies. <a hre
 </p>
 <br />
 
-<h1>3. Install / Enable IIS in Windows WITH CGI</h1>
+<h2>3. Install / Enable IIS in Windows WITH CGI</h2>
 
 <p>
 <img src="https://i.imgur.com/l3NRQpZ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -76,7 +76,7 @@ We will use these files to install osTicket and some of the dependencies. <a hre
 
 
 
-<h1>4. Download and install PHP Manager for IIS.</h1>
+<h2>4. Download and install PHP Manager for IIS.</h2>
 
 <p>
 <img src="https://i.imgur.com/SHLFJIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -84,4 +84,13 @@ We will use these files to install osTicket and some of the dependencies. <a hre
 <p>
 From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 </p>
+<br />
+
+
+<h2>5. Download and install the Rewrite Module</h2>
+
+<p>
+<img src="https://i.imgur.com/wCTZBbb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p> From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download and install the Rewrite Module </p>
 <br />
