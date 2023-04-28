@@ -76,7 +76,7 @@ We will use these files to install osTicket and some of the dependencies. <a hre
 
 
 
-<h1>4. Install / Enable IIS in Windows WITH CGI</h1>
+<h1>4. Download and install PHP Manager for IIS.</h1>
 
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
