@@ -79,9 +79,9 @@ We will use these files to install osTicket and some of the dependencies. <a hre
 <h1>4. Download and install PHP Manager for IIS.</h1>
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/SHLFJIB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-World Wide Web Services -> Application Development Features -> [X] CGI
+From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi)
 </p>
 <br />
