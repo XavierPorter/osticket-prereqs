@@ -144,3 +144,21 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 </p>
 <br />
 
+
+
+<h2>9. Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)</h2>
+
+<p>
+<img src="https://i.imgur.com/3sPWViF.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi)</li>
+    <li>Typical Setup -></li>
+    <li>Launch Configuration Wizard (after install) -></li>
+    <li>Standard Configuration -></li>
+    <li>Password1</li>
+  </ol>
+</p>
+<br />
+
