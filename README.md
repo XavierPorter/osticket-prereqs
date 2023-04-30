@@ -178,3 +178,18 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 </p>
 <br />
 
+
+
+<h2>11. Register PHP from within IIS</h2>
+
+<p>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <ol>
+    <li>Double click PHP Manager</li>
+    <li>Click "Register New PHP version"</li>
+    <li></li>
+  </ol>
+</p>
+<br />
