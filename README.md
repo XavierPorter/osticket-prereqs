@@ -230,3 +230,19 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+<h2>14. Go to “Browse *:80”</h2>
+
+<p>
+<img src="https://i.imgur.com/oDQKPPr.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>In IIS, go to sites</li>
+    <li>Select "Default"</li>
+    <li>Select osTicket</li>
+    <li>On the right, click “Browse *:80”</li>
+  </ol>
+</p>
+<br />
