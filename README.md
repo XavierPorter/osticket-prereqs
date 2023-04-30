@@ -280,3 +280,23 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 </p>
 <br />
 
+
+
+<h2>17. Assign Permissions: ost-config.php</h2>
+
+<p>
+<img src="https://i.imgur.com/nU5GbUn.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Right click "ost-config.php" and click properties</li>
+    <li>Click the "Security" tab</li>
+    <li>Click "Advanced"</li>
+    <li>Click disable inheritance -> Remove All</li>
+    <li>Add permisions -> select principals</li>
+    <li>Enter the object name "everyone"</li>
+    <li>Click check names and click "ok"</li>
+    <li>Under "Basic Permissons", check "Full Control"</li>
+  </ol>
+</p>
+<br />
