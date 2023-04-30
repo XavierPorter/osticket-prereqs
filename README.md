@@ -210,3 +210,23 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+<h2>13. Install osTicket v1.15.8</h2>
+
+<p>
+<img src="https://i.imgur.com/MiEW3Qm.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <ol>
+    <li>Download osTicket from the Installation Files Folder</li>
+    <li>Double click osTicket zip file</li>
+    <li>In a seperate window for File Explorer, select "This PC" and select the "C:" folder</li>
+    <li>Select the "inetpub" folder</li>
+    <li>Select the "wwwroot" folder</li>
+    <li>In the first file explorer window, drag the upload folder into the "wwwroot" folder</li>
+    <li>Within c:\inetpub\wwwroot folder, Rename “upload” to “osTicket”</li>
+    <li>Reload IIS (Open IIS, Stop and Start the server)</li>
+  </ol>
+</p>
+<br />
