@@ -130,3 +130,17 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+<h2>8. Download and install VC_redist.x86.exe</h2>
+
+<p>
+<img src="https://i.imgur.com/ItPlTGK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, download and install VC_redist.x86.exe.</li>
+  </ol>
+</p>
+<br />
+
