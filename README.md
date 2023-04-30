@@ -352,17 +352,34 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 
 
 
-<h2>21. </h2>
+<h2>21. Clean up</h2>
 
 <p>
-<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/T5WCyIh.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   <ol>
-    <li></li>
-    <li></li>
-    <li></li>
-    <li></li>
+    <li>Delete the setup folder: C:\inetpub\wwwroot\osTicket\setup</li>
+    <li>Go to the ost-config.php folder: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li>
+    <li>Right the folder and select "properties"</li>
+    <li>Select the "security" tab</li>
+    <li>Click "Advanced"</li>
+    <li>Click on "Everyone" and select "Edit"</li>
+    <li>Under basic permissions, leave only "Read" and "Read and execute" checked</li>
+  </ol>
+</p>
+<br />
+
+
+<h2>Congratulations, hopefully it is installed with no errors!</h2>
+
+<p>
+<img src="https://i.imgur.com/8phnp5n.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Browse to your help desk login page: http://localhost/osTicket/scp/login.php</li>
+    <li>End Users osTicket URL:http://localhost/osTicket/</li>
   </ol>
 </p>
 <br />
