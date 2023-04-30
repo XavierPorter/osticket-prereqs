@@ -162,3 +162,19 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 </p>
 <br />
 
+
+
+<h2>10. Open IIS as an Admin</h2>
+
+<p>
+<img src="https://i.imgur.com/IvHYvRf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Click the "Windows" Key</li>
+    <li>Type in "IIS"</li>
+    <li>Run as an administrator</li>
+  </ol>
+</p>
+<br />
+
