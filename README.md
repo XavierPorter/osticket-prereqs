@@ -111,3 +111,22 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+<h2>7. Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) and unzip the contents into C:\PHP</h2>
+
+<p>
+<img src="https://i.imgur.com/h9YUZBz.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Download PHP 7.3.8</li>
+    <li>On the zip file, right click and click "extract all" </li>  
+    <li>Click "Browse"</li>  
+    <li>Click "This PC"</li>
+    <li>Select the "C:" drive</li> 
+    <li>Select the "PHP" folder</li>
+    <li>Click Extract</li>
+  </ol>
+</p>
+<br />
