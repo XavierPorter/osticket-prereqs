@@ -196,3 +196,17 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+<h2>12. Reload IIS (Open IIS, Stop and Start the server)</h2>
+
+<p>
+<img src="https://i.imgur.com/FJf2Tov.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+   <ol>
+    <li>Click on the name of the server (vmosticket)</li>
+    <li>On the right hand side, click "Restart"</li>
+  </ol>
+</p>
+<br />
