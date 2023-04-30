@@ -267,5 +267,16 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
 <br />
 
 
+<h2>16. Rename: ost-config.php</h2>
 
+<p>
+<img src="https://i.imgur.com/vNQQ8hw.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>From: C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php</li>
+    <li>To: C:\inetpub\wwwroot\osTicket\include\ost-config.php</li>
+  </ol>
+</p>
+<br />
 
