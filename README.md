@@ -300,3 +300,52 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+
+<h2>18. Continue Setting up osticket in the browser (click Continue)</h2>
+
+<p>
+<img src="https://i.imgur.com/8ViDP8f.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Name Helpdesk</li>
+    <li>Default email (receives email from customers)</li>
+  </ol>
+</p>
+<br />
+
+
+<h2>19. HeidiSQL.</h2>
+
+<p>
+<img src="https://i.imgur.com/ZxG51uE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6">Installation Files</a>, Download and install HeidiSQL.</li>
+    <li>Open Heidi SQL</li>
+    <li>Connect to the session</li>
+    <li>Right Click "unamed"</li>
+    <li>Click "create new" and click database</li>
+    <li>Create a database called “osTicket”</li>
+  </ol>
+</p>
+<br />
+
+
+<h2>20. Continue Setting up osticket in the browser</h2>
+
+<p>
+<img src="https://i.imgur.com/JWW2Q7A.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>MySQL Database: osTicket</li>
+    <li>MySQL Username: root</li>
+    <li>MySQL Password: Password1</li>
+    <li>Click “Install Now!”</li>
+  </ol>
+</p>
+<br />
