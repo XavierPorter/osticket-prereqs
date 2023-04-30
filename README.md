@@ -246,3 +246,26 @@ From the <a href="https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6Ezda
   </ol>
 </p>
 <br />
+
+
+
+<h2>15. Enable Extenstions</h2>
+
+<p>
+<img src="https://i.imgur.com/n0lzywH.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+  <ol>
+    <li>Go back to IIS, sites -> Default -> osTicket</li>
+    <li>Double-click PHP Manager</li>
+    <li>Under "PHP Extenstions" Click “Enable or disable an extension”</li>
+    <li>Enable: php_imap.dll</li>
+    <li>Enable: php_intl.dll</li>
+    <li>Enable: php_opcache.dll</li>
+  </ol>
+</p>
+<br />
+
+
+
+
